@@ -1,0 +1,67 @@
+.par{
+    color:blue;
+   height: 10px;
+}
+.par_small{
+    color:blue;
+    padding-left: 130px;
+    position: fixed;
+    top: 5;
+    right: -130;
+    
+}
+.Trends_list{
+    padding: 20px;
+}
+.Badge_list{
+  background: white;
+  border-radius: 30px;
+  padding-left: 500px;
+}
+
+.Badge {
+    background:white;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 30px;
+    height: 320px;
+}
+
+.Badge__header {
+    padding-left: 20px;
+    height: 15px;
+    justify-content: right;
+  }
+
+
+  .Badge__section-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+  }
+
+  .Badge_input{
+      padding-left: 30px;
+  }
+
+  .Badge_footer{
+    background:grey;
+    padding: 1.5rem 0;
+    height: 80px;
+  }
+
+  .Badge_header{
+    padding: 20px;
+  }
+  .fix_image{
+      position: fixed;
+      top: 20;
+      height: 12;
+  }
+  .right_align{
+      padding-left: 100px;
+  }
+
+  .BadgeNew{
+    background-color: cadetblue;
+  }
